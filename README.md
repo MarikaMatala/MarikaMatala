@@ -30,4 +30,4 @@ I've applied my skills in a variety of projects, including website development, 
 
 🔒 **Portfolio:** Some of my work samples are currently in private GitHub repositories. If you'd like to explore my projects in more detail, feel free to message me to request access to selected work samples.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/marika-matalamaki) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/marika-matalamaki)
