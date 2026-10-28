@@ -8,7 +8,7 @@ Minulla on kokemusta web- ja sovelluskehityksestä, käyttöliittymistä, verkko
 
 Olen soveltanut osaamistani erilaisissa projekteissa, kuten verkkosivujen kehityksessä, brändiuudistuksessa, ohjelmistokehitystiimissä työskentelyssä sekä viestinnän ja sosiaalisen median tehtävissä. Minua kiinnostaa erityisesti se, miten teknologia ja visuaalisuus voivat yhdessä luoda toimivia, käyttäjäystävällisiä ja kiinnostavia digitaalisia kokemuksia.
 
-**Omat verkkosivuni ovat parhaillaan tekeillä.** Rakennan niitä ja tarkoituksena on koota yhteen osaamistani, projektejani ja työnäytteitäni.
+**Portfolioni on julkaistu ja sitä päivitetään parhaillaan.** Kokoan sivustolle valikoituja projekteja, työnäytteitä ja teknisiä esimerkkejä sitä mukaa, kun saan niitä viimeisteltyä.
 
 🔗 [Portfolio](https://marikamatala.github.io)
 
@@ -28,7 +28,7 @@ I have experience in web and application development, UI design, website design 
 
 I've applied my skills in a variety of projects, including website development, brand renewal, software development teams, communications and social media. I'm particularly interested in combining technology and visual design to create functional, accessible and engaging digital experiences.
 
-**My personal website is currently in development.** I'm building it to bring together my skills, projects and portfolio.
+**My portfolio is online and currently being updated.** I’m adding selected projects, work samples and technical examples as I finish preparing them.
 
 🔗 [Portfolio](https://marikamatala.github.io)
 
