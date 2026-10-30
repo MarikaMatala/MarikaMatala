@@ -60,7 +60,6 @@ My wider toolkit also includes **Canva, Elementor, REST APIs, MongoDB, PowerShel
 
 - **WIMMA Capstone – Brand renewal:** visual identity, logo and colour palette, brand book, landing-page design, accessibility and UI/UX. [Project website](https://wimma-capstone.jamk.fi/)
 - **WIMMA Lab – Development team:** practical experience with frontend development, React, Next.js, TypeScript, Node.js, Git and collaborative software development.
-- **Turku Distillery – WordPress website:** website content, photography and implementation as part of a student team.
 - **JIO – Communications Officer:** social media, WordPress, visual content and event communications.
 - **Media production & journalism:** news, interviews, photography, video and audio editing.
 
