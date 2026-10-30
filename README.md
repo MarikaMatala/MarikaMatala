@@ -17,7 +17,7 @@ I combine hands-on web and application development with visual design and digita
 
 My background also includes working in software development teams, website and brand projects, communications, photography and video production.
 
-**Currently looking for junior / entry-level opportunities** in web and software development, UI/UX, digital media or related creative and technical roles in the Helsinki metropolitan area. Available from 1 November 2026 or by agreement.
+**Currently looking for junior / entry-level opportunities** in web and software development, UI/UX, digital media or related creative and technical roles, primarily in the Helsinki metropolitan area, Finland. Available for on-site work from January 2027; remote work is possible earlier. I’m also open to remote opportunities elsewhere in Finland and internationally.
 
 - 🌐 Portfolio: [marikamatala.github.io](https://marikamatala.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/marika-matalamaki](https://www.linkedin.com/in/marika-matalamaki)
@@ -29,7 +29,7 @@ Olen toukokuussa 2026 valmistunut **tieto- ja viestintätekniikan insinööri (J
 
 Yhdistän osaamisessani teknisen web- ja sovelluskehityksen visuaaliseen suunnitteluun sekä digitaalisen sisällön tuotantoon. Minua kiinnostavat erityisesti frontend-kehitys, käyttöliittymät, käytettävyys ja saavutettavien digitaalisten palveluiden rakentaminen.
 
-Etsin juniori- tai uransa alkuvaiheen tehtäviä esimerkiksi web- ja ohjelmistokehityksen, UI/UX:n, digitaalisen median tai näitä yhdistävien tehtävien parista pääkaupunkiseudulta. Voin aloittaa 1.11.2026 tai sopimuksen mukaan.
+Etsin juniori- tai uransa alkuvaiheen tehtäviä esimerkiksi web- ja ohjelmistokehityksen, UI/UX:n, digitaalisen median tai näitä yhdistävien tehtävien parista ensisijaisesti pääkaupunkiseudulta Suomessa. Voin aloittaa paikan päällä työskentelyn tammikuussa 2027, ja etätyö onnistuu jo aiemmin. Huomioin myös muualla Suomessa ja ulkomailla sijaitsevat etätyömahdollisuudet.
 
 - 🌐 [Portfolio](https://marikamatala.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marika-matalamaki)
