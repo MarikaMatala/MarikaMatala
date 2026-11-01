@@ -35,7 +35,7 @@ Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukok
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-Other tools | Muita työkaluja: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing | ohjelmistotestaus.
+Other tools include | Muita työkaluja ovat mm.: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing | ohjelmistotestaus.
 
 ## 💡 Selected experience & projects | Kokemus ja projektit
 
@@ -50,7 +50,7 @@ More about my work | Lisää töistäni: [Portfolio](https://marikamatala.github
 
 I welcome support and collaboration related to my work in IT and creative fields. This can include project sponsorship, financial contributions, software, tools or equipment. I'm also open to project work and agreed marketing or social media collaborations.
 
-Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen parissa. Tuki voi olla esimerkiksi projektisponsorointia, rahallista tukea, ohjelmistoja, työvälineitä tai laitteita. Olen kiinnostunut myös projektitöistä sekä erikseen sovittavista markkinointi- ja som yhteistöistä.
+Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen parissa. Tuki voi olla esimerkiksi projektisponsorointia, rahallista tukea, ohjelmistoja, työvälineitä tai laitteita. Olen kiinnostunut myös projektitöistä sekä erikseen sovittavista markkinointi- ja sosiaalisen median yhteistöistä.
 
 <p align="center">
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
