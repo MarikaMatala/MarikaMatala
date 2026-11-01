@@ -37,7 +37,7 @@ Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukok
 
 Other tools include | Muita työkaluja ovat mm.: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing | ohjelmistotestaus.
 
-## 💡 Selected experience & projects | Kokemus ja projektit
+## 💡 Experience & projects I've contributed to or created | Kokemusta ja projekteja, joissa olen ollut mukana tai jotka olen tehnyt itse
 
 - **WIMMA Capstone:** brand identity, visual design, accessibility and UI/UX | brändiuudistus, visuaalinen suunnittelu, saavutettavuus ja UI/UX. [Project website | Projektisivusto](https://wimma-capstone.jamk.fi/)
 - **WIMMA Lab:** frontend development and teamwork | frontend-kehitys ja tiimityöskentely.
