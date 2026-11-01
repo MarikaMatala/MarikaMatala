@@ -65,11 +65,15 @@ My wider toolkit also includes **Canva, Elementor, REST APIs, MongoDB, PowerShel
 
 More background and selected work samples: [my portfolio](https://marikamatala.github.io/).
 
-## 🧡 Support my work | Tue työskentelyäni
+## 🧡 Career Support, Sponsorship & Collaboration | Uran tukeminen, sponsorointi ja yhteistyö
 
-Developing my skills, building my portfolio and working on new projects take time, effort and financial resources. If you would like to support my journey, you can optionally make a monetary contribution or gift useful equipment, software or other tools. Your support would help with my current financial situation and make it easier to invest in resources for professional development and future projects. All support is voluntary, and every contribution is genuinely appreciated.
+I am building my career in IT, digital media and creative fields, and I am open to putting my skills into practice through projects of all sizes. Support for my work can take different forms: financial contributions, project-based sponsorship, software and licences, development tools, equipment or other useful supplies. I welcome enquiries from both individuals and companies.
 
-Osaamisen kehittäminen, portfolion rakentaminen ja uusien projektien toteuttaminen vaativat aikaa, työtä ja taloudellisia resursseja. Voit halutessasi tukea matkaani vapaaehtoisella rahalahjoituksella tai esimerkiksi työskentelyssä tarvittavilla laitteilla, ohjelmistoilla tai muilla hyödyllisillä tuotteilla. Tuki auttaa tämänhetkisessä taloudellisessa tilanteessani ja mahdollistaa työvälineiden hankkimisen osaamisen kehittämistä ja tulevia projekteja varten. Kaikki tuki on vapaaehtoista ja arvostan jokaista elettä suuresti.
+I am interested in projects involving web development, digital services, visual design, content creation, photography, video, communications and social media. I am also open to advertising and marketing projects, including agreed social media collaborations and sponsored posts on my channels. The scope, deliverables, compensation and any visibility or publication arrangements are agreed in advance. Commercial collaborations and sponsored content are clearly disclosed.
+
+Rakennan uraani IT:n, digitaalisen median ja luovien alojen parissa ja olen valmis tarjoamaan osaamistani erikokoisiin projekteihin. Työskentelyäni voi tukea monella tavalla: rahallisella tuella, projektikohtaisella sponsoroinnilla, ohjelmistoilla ja lisensseillä, kehitystyökaluilla, laitteilla tai muilla hyödyllisillä tarvikkeilla. Yhteydenotot ovat tervetulleita sekä yksityishenkilöiltä että yrityksiltä.
+
+Olen kiinnostunut esimerkiksi verkkosivuihin ja digitaalisiin palveluihin, visuaaliseen suunnitteluun, sisällöntuotantoon, valokuvaukseen, videoihin, viestintään ja sosiaaliseen mediaan liittyvistä projekteista. Teen mielelläni myös mainos- ja markkinointitarkoituksiin suunniteltua työtä sekä sovittaessa yhteistyöjulkaisuja ja sponsoroituja postauksia sosiaalisen median kanavissani. Sovimme etukäteen työn sisällöstä, toimitettavista materiaaleista, korvauksesta ja mahdollisesta näkyvyydestä. Kaupalliset yhteistyöt ja sponsoroitu sisältö merkitään asianmukaisesti.
 
 <p align="center">
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
