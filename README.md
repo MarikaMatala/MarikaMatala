@@ -10,61 +10,47 @@
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
 </p>
 
-## 🇬🇧 About me
+## 🇬🇧 About me | 🇫🇮 Esittelyni
 
-I'm an ICT Engineer from Finland, graduated from JAMK in May 2026. My background combines **frontend and web development, UI/UX, visual design and digital media**.
+I'm an **ICT Engineer** from Finland, graduated from JAMK in May 2026. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for junior opportunities, primarily in the Helsinki metropolitan area.
 
-I'm interested in building accessible, user-friendly digital experiences and creating visual content. I'm currently looking for junior opportunities in IT, web development, UI/UX or digital media.
-
-Based in Finland. Available for on-site work in the Helsinki metropolitan area from January 2027; remote work is possible earlier.
-
-## 🇫🇮 Esittelyni suomeksi
-
-Olen toukokuussa 2026 JAMKista valmistunut tieto- ja viestintätekniikan insinööri. Yhdistän osaamisessani **frontend- ja web-kehityksen, UI/UX-suunnittelun, visuaalisen suunnittelun ja digitaalisen median**.
-
-Minua kiinnostavat erityisesti toimivien ja saavutettavien digitaalisten palveluiden sekä visuaalisen sisällön suunnittelu ja toteutus. Etsin junioritason tehtäviä IT:n, web-kehityksen, UI/UX:n tai digitaalisen median parista.
-
-Etsin ensisijaisesti töitä pääkaupunkiseudulta. Voin aloittaa paikan päällä työskentelyn tammikuussa 2027, ja etätyö onnistuu jo aiemmin.
+Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukokuussa 2026. Osaamiseeni ja kiinnostuksen kohteisiini kuuluvat **web-kehitys, frontend, UI/UX, visuaalinen suunnittelu ja digitaalinen media**. Etsin junioritason työmahdollisuuksia ensisijaisesti pääkaupunkiseudulta.
 
 ---
 
-## Tech stack & tools
+## 🛠️ Tech stack & tools | Teknologiat ja työkalut
 
-### Web and application development
+### Web & application development | Web- ja sovelluskehitys
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,cs,kotlin,androidstudio&theme=light&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, C sharp, Kotlin and Android Studio">
 </p>
 
-### Design and digital media
+### Design & digital media | Visuaalinen suunnittelu ja digitaalinen media
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,blender,wordpress&theme=light&perline=8" alt="Figma, Photoshop, Illustrator, Premiere Pro, Blender and WordPress">
 </p>
 
-### Development tools
+### Development tools | Kehitystyökalut
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-My wider toolkit also includes **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing. The icons above are a visual selection, not an exhaustive list.
+Other tools | Muita työkaluja: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing | ohjelmistotestaus.
 
-## Selected experience & projects
+## 💡 Selected experience & projects | Kokemus ja projektit
 
-- **WIMMA Capstone – Brand renewal:** visual identity, logo and colour palette, brand book, landing-page design, accessibility and UI/UX. [Project website](https://wimma-capstone.jamk.fi/)
-- **WIMMA Lab – Development team:** practical experience with frontend development, React, Next.js, TypeScript, Node.js, Git and collaborative software development.
-- **JIO – Communications Officer:** social media, WordPress, visual content and event communications.
-- **Media production & journalism:** news, interviews, photography, video and audio editing.
+- **WIMMA Capstone:** brand identity, visual design, accessibility and UI/UX | brändiuudistus, visuaalinen suunnittelu, saavutettavuus ja UI/UX. [Project website | Projektisivusto](https://wimma-capstone.jamk.fi/)
+- **WIMMA Lab:** frontend development and teamwork | frontend-kehitys ja tiimityöskentely.
+- **JIO:** communications, WordPress and social media | viestintä, WordPress ja sosiaalinen media.
+- **Media & journalism:** photography, video, audio and editorial work | valokuvaus, video, ääni ja journalistinen työ.
 
-More background and selected work samples: [my portfolio](https://marikamatala.github.io/).
+More about my work | Lisää töistäni: [Portfolio](https://marikamatala.github.io/).
 
-## 🧡 Career Support, Sponsorship & Collaboration | Uran tukeminen, sponsorointi ja yhteistyö
+## 🧡 Career support & collaboration | Uran tukeminen ja yhteistyö
 
-I am building my career in IT, digital media and creative fields, and I am open to putting my skills into practice through projects of all sizes. Support for my work can take different forms: financial contributions, project-based sponsorship, software and licences, development tools, equipment or other useful supplies. I welcome enquiries from both individuals and companies.
+I welcome support and collaboration related to my work in IT and creative fields. This can include project sponsorship, financial contributions, software, tools or equipment. I'm also open to project work and agreed marketing or social media collaborations.
 
-I am interested in projects involving web development, digital services, visual design, content creation, photography, video, communications and social media. I am also open to advertising and marketing projects, including agreed social media collaborations and sponsored posts on my channels. The scope, deliverables, compensation and any visibility or publication arrangements are agreed in advance. Commercial collaborations and sponsored content are clearly disclosed.
-
-Rakennan uraani IT:n, digitaalisen median ja luovien alojen parissa ja olen valmis tarjoamaan osaamistani erikokoisiin projekteihin. Työskentelyäni voi tukea monella tavalla: rahallisella tuella, projektikohtaisella sponsoroinnilla, ohjelmistoilla ja lisensseillä, kehitystyökaluilla, laitteilla tai muilla hyödyllisillä tarvikkeilla. Yhteydenotot ovat tervetulleita sekä yksityishenkilöiltä että yrityksiltä.
-
-Olen kiinnostunut esimerkiksi verkkosivuihin ja digitaalisiin palveluihin, visuaaliseen suunnitteluun, sisällöntuotantoon, valokuvaukseen, videoihin, viestintään ja sosiaaliseen mediaan liittyvistä projekteista. Teen mielelläni myös mainos- ja markkinointitarkoituksiin suunniteltua työtä sekä sovittaessa yhteistyöjulkaisuja ja sponsoroituja postauksia sosiaalisen median kanavissani. Sovimme etukäteen työn sisällöstä, toimitettavista materiaaleista, korvauksesta ja mahdollisesta näkyvyydestä. Kaupalliset yhteistyöt ja sponsoroitu sisältö merkitään asianmukaisesti.
+Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen parissa. Tuki voi olla esimerkiksi projektisponsorointia, rahallista tukea, ohjelmistoja, työvälineitä tai laitteita. Olen kiinnostunut myös projektitöistä sekä erikseen sovittavista markkinointi- ja som yhteistöistä.
 
 <p align="center">
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
@@ -72,7 +58,7 @@ Olen kiinnostunut esimerkiksi verkkosivuihin ja digitaalisiin palveluihin, visua
 
 ---
 
-## GitHub
+## 📊 GitHub | GitHub-tilastot
 
 <p align="center">
   <a href="https://github.com/MarikaMatala">
@@ -83,7 +69,7 @@ Olen kiinnostunut esimerkiksi verkkosivuihin ja digitaalisiin palveluihin, visua
   </a>
 </p>
 
-*GitHub language and activity statistics reflect public repository data and do not represent my full skill set or private coursework.*
+*GitHub statistics show public repository data only and do not represent my full skills or private coursework. | GitHub-tilastot perustuvat julkisiin repositorioihin eivätkä kuvaa kaikkea osaamistani tai yksityisiä opintotöitäni.*
 
 ---
 
