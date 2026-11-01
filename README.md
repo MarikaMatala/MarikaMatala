@@ -65,6 +65,18 @@ My wider toolkit also includes **Canva, Elementor, REST APIs, MongoDB, PowerShel
 
 More background and selected work samples: [my portfolio](https://marikamatala.github.io/).
 
+## 🧡 Support my work | Tue työskentelyäni
+
+Developing my skills, building my portfolio and working on new projects take time, effort and financial resources. If you would like to support my journey, you can optionally make a monetary contribution or gift useful equipment, software or other tools. Your support would help with my current financial situation and make it easier to invest in resources for professional development and future projects. All support is voluntary, and every contribution is genuinely appreciated.
+
+Osaamisen kehittäminen, portfolion rakentaminen ja uusien projektien toteuttaminen vaativat aikaa, työtä ja taloudellisia resursseja. Voit halutessasi tukea matkaani vapaaehtoisella rahalahjoituksella tai esimerkiksi työskentelyssä tarvittavilla laitteilla, ohjelmistoilla tai muilla hyödyllisillä tuotteilla. Tuki auttaa tämänhetkisessä taloudellisessa tilanteessani ja mahdollistaa työvälineiden hankkimisen osaamisen kehittämistä ja tulevia projekteja varten. Kaikki tuki on vapaaehtoista ja arvostan jokaista elettä suuresti.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
+</p>
+
+---
+
 ## GitHub
 
 <p align="center">
