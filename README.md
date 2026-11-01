@@ -12,29 +12,19 @@
 
 ## 🇬🇧 About me
 
-I’m a **Bachelor of Engineering in Information and Communications Technology**, graduated from JAMK University of Applied Sciences in May 2026. My studies focused on **application development and digital media**.
+I'm an ICT Engineer from Finland, graduated from JAMK in May 2026. My background combines **frontend and web development, UI/UX, visual design and digital media**.
 
-I combine hands-on web and application development with visual design and digital content production. I’m especially interested in frontend development, user interfaces, usability and creating accessible, engaging digital experiences.
+I'm interested in building accessible, user-friendly digital experiences and creating visual content. I'm currently looking for junior opportunities in IT, web development, UI/UX or digital media.
 
-My background also includes working in software development teams, website and brand projects, communications, photography and video production.
-
-**Currently looking for junior / entry-level opportunities** in web and software development, UI/UX, digital media or related creative and technical roles, primarily in the Helsinki metropolitan area, Finland. Available for on-site work from January 2027; remote work is possible earlier. I’m also open to remote opportunities elsewhere in Finland and internationally.
-
-- 🌐 Portfolio: [marikamatala.github.io](https://marikamatala.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/marika-matalamaki](https://www.linkedin.com/in/marika-matalamaki)
-- 🧩 Work samples: Some project repositories are private. Selected samples are available on request.
+Based in Finland. Available for on-site work in the Helsinki metropolitan area from January 2027; remote work is possible earlier.
 
 ## 🇫🇮 Lyhyesti suomeksi
 
-Olen toukokuussa 2026 valmistunut **tieto- ja viestintätekniikan insinööri (JAMK)**. Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan.
+Olen toukokuussa 2026 JAMKista valmistunut tieto- ja viestintätekniikan insinööri. Yhdistän osaamisessani **frontend- ja web-kehityksen, UI/UX-suunnittelun, visuaalisen suunnittelun ja digitaalisen median**.
 
-Yhdistän osaamisessani teknisen web- ja sovelluskehityksen visuaaliseen suunnitteluun sekä digitaalisen sisällön tuotantoon. Minua kiinnostavat erityisesti frontend-kehitys, käyttöliittymät, käytettävyys ja saavutettavien digitaalisten palveluiden rakentaminen.
+Minua kiinnostavat erityisesti toimivien ja saavutettavien digitaalisten palveluiden sekä visuaalisen sisällön suunnittelu ja toteutus. Etsin junioritason tehtäviä IT:n, web-kehityksen, UI/UX:n tai digitaalisen median parista.
 
-Etsin juniori- tai uransa alkuvaiheen tehtäviä esimerkiksi web- ja ohjelmistokehityksen, UI/UX:n, digitaalisen median tai näitä yhdistävien tehtävien parista ensisijaisesti pääkaupunkiseudulta Suomessa. Voin aloittaa paikan päällä työskentelyn tammikuussa 2027, ja etätyö onnistuu jo aiemmin. Huomioin myös muualla Suomessa ja ulkomailla sijaitsevat etätyömahdollisuudet.
-
-- 🌐 [Portfolio](https://marikamatala.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/marika-matalamaki)
-- 🧩 Osa työnäytteistä on yksityisissä GitHub-repositorioissa. Niitä voi pyytää nähtäväksi viestillä.
+Etsin ensisijaisesti töitä pääkaupunkiseudulta. Voin aloittaa paikan päällä työskentelyn tammikuussa 2027, ja etätyö onnistuu jo aiemmin.
 
 ---
 
