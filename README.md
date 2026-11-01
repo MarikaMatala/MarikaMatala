@@ -52,6 +52,8 @@ I welcome support and collaboration related to my work in IT and creative fields
 
 Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen parissa. Tuki voi olla esimerkiksi projektisponsorointia, rahallista tukea, ohjelmistoja, työvälineitä tai laitteita. Olen kiinnostunut myös projektitöistä sekä erikseen sovittavista markkinointi- ja somenäkyvyyteen liittyvistä yhteistöistä.
 
+Yhteydenotot | Contact: [marika.matalamaki@hotmail.com](mailto:marika.matalamaki@hotmail.com)
+
 <p align="center">
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
 </p>
