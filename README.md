@@ -18,7 +18,7 @@ I'm interested in building accessible, user-friendly digital experiences and cre
 
 Based in Finland. Available for on-site work in the Helsinki metropolitan area from January 2027; remote work is possible earlier.
 
-## 🇫🇮 Lyhyesti suomeksi
+## 🇫🇮 Esittelyni suomeksi
 
 Olen toukokuussa 2026 JAMKista valmistunut tieto- ja viestintätekniikan insinööri. Yhdistän osaamisessani **frontend- ja web-kehityksen, UI/UX-suunnittelun, visuaalisen suunnittelun ja digitaalisen median**.
 
