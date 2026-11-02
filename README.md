@@ -7,6 +7,7 @@
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8E3F27?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF9ED" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/marika-matalamaki"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A7770?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:marika.matalamaki@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-8E3F27?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
 </p>
 
@@ -56,7 +57,12 @@ Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen pa
 
 Yhteydenotot | Contact: [marika.matalamaki@hotmail.com](mailto:marika.matalamaki@hotmail.com)
 
+You can also support my open-source interests and ongoing development through [GitHub Sponsors](https://github.com/sponsors/MarikaMatala).
+
+Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä [GitHub Sponsorsin kautta](https://github.com/sponsors/MarikaMatala).
+
 <p align="center">
+  <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work on GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
 </p>
 
