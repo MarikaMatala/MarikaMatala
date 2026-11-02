@@ -35,7 +35,9 @@ Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukok
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-Other tools include | Muita työkalujani ovat esimerkiksi: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy and Matplotlib** | sekä ohjelmistotestaus.
+Other tools include **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy and Matplotlib**, as well as software testing.
+
+Muita työkalujani ovat esimerkiksi **Canva, Elementor, REST API -rajapinnat, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy ja Matplotlib** sekä ohjelmistotestaus.
 
 ## 💡 Experience & projects | Kokemusta ja projekteja
 
