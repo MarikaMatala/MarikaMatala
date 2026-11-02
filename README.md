@@ -57,9 +57,9 @@ Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen pa
 
 Yhteydenotot | Contact: [marika.matalamaki@hotmail.com](mailto:marika.matalamaki@hotmail.com)
 
-You can also support my open-source interests and ongoing development through [GitHub Sponsors](https://github.com/sponsors/MarikaMatala).
+You can also support my open-source interests and ongoing development through [GitHub Sponsors](https://github.com/sponsors/MarikaMatala). You can also support my work through [Buy Me a Coffee](https://buymeacoffee.com/marikamatala). Contributions help me keep learning, develop my skills and work on personal, creative and open-source projects. They can go towards practical resources such as software, development tools, learning materials and equipment for my work.
 
-Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä [GitHub Sponsorsin kautta](https://github.com/sponsors/MarikaMatala).
+Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä [GitHub Sponsorsin kautta](https://github.com/sponsors/MarikaMatala). Voit tukea työtäni myös [Buy Me a Coffeen kautta](https://buymeacoffee.com/marikamatala). Tukimaksut auttavat minua kehittämään osaamistani ja työskentelemään omien luovien projektieni sekä avoimen lähdekoodin projektien parissa. Tuki voidaan käyttää esimerkiksi työssä tarvittaviin ohjelmistoihin, kehitystyökaluihin, oppimateriaaleihin ja laitteisiin.
 
 <p align="center">
   <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work on GitHub Sponsors"></a>
