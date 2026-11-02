@@ -12,7 +12,7 @@
 
 ## 🇬🇧 About me | 🇫🇮 Esittelyni
 
-I'm an **ICT Engineer** from Finland, graduated from JAMK in May 2026. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for **entry-level and junior positions**, as well as **paid company trainee, graduate and other early-career programmes or internships open to graduates**, including people who graduated within the past 12 months. I'm **not looking for internships required as part of a Finnish university of applied sciences degree**, as I have already graduated, or for **unpaid work or internships**. My first preference is on-site and hybrid work in the **Helsinki metropolitan area, Finland**. I'm also open to **remote roles and travel-based work opportunities worldwide**.
+I'm an **ICT Engineer** from Finland, and I graduated from JAMK in May 2026. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for **entry-level and junior positions**, as well as **paid company trainee, graduate and other early-career programmes or internships open to graduates**, including people who graduated within the past 12 months. I'm **not looking for internships required as part of a Finnish university of applied sciences degree**, as I have already graduated, or for **unpaid work or internships**. My first preference is on-site and hybrid work in the **Helsinki metropolitan area, Finland**. I'm also open to **remote roles and travel-based work opportunities worldwide**.
 
 Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukokuussa 2026. Osaamiseeni ja kiinnostuksen kohteisiini kuuluvat **web-kehitys, frontend, UI/UX, visuaalinen suunnittelu ja digitaalinen media**. Etsin **entry-tason ja junior-tason työpaikkoja** sekä **palkallisia yritysten trainee-, graduate- ja muita uransa alkuvaiheen ohjelmia tai harjoittelupaikkoja**, jotka soveltuvat myös jo valmistuneille tai viimeisen 12 kuukauden aikana valmistuneille. **En etsi AMK-tutkintoon kuuluvia harjoittelupaikkoja**, sillä olen jo valmistunut, enkä **palkattomia töitä tai harjoitteluja**. Ensisijaisesti kiinnostavat **paikan päällä tehtävät ja hybridityöt pääkaupunkiseudulla Suomessa**. Olen kiinnostunut myös **etätyöstä ja matkustamista edellyttävistä työtehtävistä maailmanlaajuisesti**.
 
@@ -35,14 +35,14 @@ Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukok
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-Other tools include | Muita työkaluja ovat mm.: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy, Matplotlib** and software testing | ohjelmistotestaus.
+Other tools include | Muita työkalujani ovat esimerkiksi: **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy and Matplotlib** | sekä ohjelmistotestaus.
 
-## 💡 Experience & projects I've contributed to or created | Kokemusta ja projekteja, joissa olen ollut mukana tai jotka olen tehnyt itse
+## 💡 Experience & projects | Kokemusta ja projekteja
 
 - **WIMMA Capstone:** brand identity, visual design, accessibility and UI/UX | brändiuudistus, visuaalinen suunnittelu, saavutettavuus ja UI/UX. [Project website | Projektisivusto](https://wimma-capstone.jamk.fi/)
 - **WIMMA Lab:** frontend development and teamwork | frontend-kehitys ja tiimityöskentely.
 - **JIO:** communications, WordPress and social media | viestintä, WordPress ja sosiaalinen media.
-- **Media & journalism:** photography, video, audio and editorial work | valokuvaus, video, ääni ja journalistinen työ.
+- **Media & journalism:** photography, video, audio and editorial work | valokuvaus, videotuotanto, äänityö ja journalistinen työ.
 
 More about my work | Lisää töistäni: [Portfolio](https://marikamatala.github.io/).
 
