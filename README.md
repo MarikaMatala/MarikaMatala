@@ -12,9 +12,9 @@
 
 ## 🇬🇧 About me | 🇫🇮 Esittelyni
 
-I'm an **ICT Engineer** from Finland, graduated from JAMK in May 2026. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for junior opportunities, primarily in the Helsinki metropolitan area.
+I'm an **ICT Engineer** from Finland, graduated from JAMK in May 2026. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for **entry-level and junior positions, not internships**. My first preference is on-site and hybrid work in the **Helsinki metropolitan area, Finland**. I'm also open to **remote roles and travel-based work opportunities worldwide**.
 
-Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukokuussa 2026. Osaamiseeni ja kiinnostuksen kohteisiini kuuluvat **web-kehitys, frontend, UI/UX, visuaalinen suunnittelu ja digitaalinen media**. Etsin junioritason työmahdollisuuksia ensisijaisesti pääkaupunkiseudulta.
+Olen **tieto- ja viestintätekniikan insinööri** ja valmistuin JAMKista toukokuussa 2026. Osaamiseeni ja kiinnostuksen kohteisiini kuuluvat **web-kehitys, frontend, UI/UX, visuaalinen suunnittelu ja digitaalinen media**. Etsin **entry-tason ja junior-tason työpaikkoja, en harjoittelupaikkoja**. Ensisijaisesti kiinnostavat **paikan päällä tehtävät ja hybridityöt pääkaupunkiseudulla Suomessa**. Olen kiinnostunut myös **etätyöstä ja matkustamista edellyttävistä työtehtävistä maailmanlaajuisesti**.
 
 ---
 
