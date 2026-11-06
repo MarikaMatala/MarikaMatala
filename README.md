@@ -1,4 +1,4 @@
-<!-- Profile README for MarikaMatala -->
+<!-- Profile README for MarikaMatala | Updated: 2026-11-06 20:27 Europe/Helsinki -->
 
 <h1 align="center">Hi, I'm Marika M. 👋</h1>
 <h3 align="center">ICT Engineer · Frontend & Web Development · UI/UX · Visual Design & Digital Media</h3>
@@ -43,6 +43,7 @@ Muita työkalujani ovat esimerkiksi **Canva, Elementor, REST API -rajapinnat, Mo
 ## 💡 Experience & projects | Kokemusta ja projekteja
 
 - **WIMMA Capstone:** brand identity, visual design, accessibility and UI/UX | brändiuudistus, visuaalinen suunnittelu, saavutettavuus ja UI/UX. [Project website | Projektisivusto](https://wimma-capstone.jamk.fi/)
+- **The Cultured Vault:** a bilingual cultural-catalogue concept with a 500-entry installable PWA demo, local-only visitor suggestions and clearly separated owner-rating and IMDb-reference fields | kulttuurikatalogi ja asennettava 500 teoksen PWA-demo. [Try the demo | Kokeile demoa](https://marikamatala.github.io/The-Cultured-Vault-demo/) · [Project repository | Projektirepositorio](https://github.com/MarikaMatala/The-Cultured-Vault)
 - **WIMMA Lab:** frontend development and teamwork | frontend-kehitys ja tiimityöskentely.
 - **JIO:** communications, WordPress and social media | viestintä, WordPress ja sosiaalinen media.
 - **Media & journalism:** photography, video, audio and editorial work | valokuvaus, videotuotanto, äänityö ja journalistinen työ.
