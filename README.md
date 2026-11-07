@@ -73,10 +73,10 @@ Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä 
 
 <p align="center">
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false" alt="GitHub account statistics based on public activity" height="165">
+    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false&show=contributions&v=20261108" alt="GitHub account statistics based on public activity" height="165">
   </a>
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Top detected programming languages in public repositories, up to 20 languages" height="165">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5&v=20261108" alt="Top detected programming languages in public repositories, up to 20 languages" height="165">
   </a>
 </p>
 
