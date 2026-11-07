@@ -23,7 +23,7 @@ Olen **valmistunut tieto- ja viestintätekniikan insinööriksi (insinööri AMK
 
 ### Web & application development | Web- ja sovelluskehitys
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,cs,kotlin,androidstudio&theme=light&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, C sharp, Kotlin and Android Studio">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,kotlin,php,java,mysql,bash,powershell,json&theme=light&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Python, C sharp, Kotlin, PHP, Java, MySQL, Bash, PowerShell and JSON">
 </p>
 
 ### Design & digital media | Visuaalinen suunnittelu ja digitaalinen media
@@ -36,9 +36,9 @@ Olen **valmistunut tieto- ja viestintätekniikan insinööriksi (insinööri AMK
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-Other tools include **Canva, Elementor, REST APIs, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy and Matplotlib**, as well as software testing.
+Frameworks, platforms and additional technologies I've worked with include **React, Next.js, Node.js, Android Studio, REST APIs, MongoDB, WordPress, Elementor, Canva, JupyterLab, Pandas, NumPy and Matplotlib**, as well as software testing.
 
-Muita työkalujani ovat esimerkiksi **Canva, Elementor, REST API -rajapinnat, MongoDB, PowerShell, Bash, JupyterLab, Pandas, NumPy ja Matplotlib** sekä ohjelmistotestaus.
+Olen työskennellyt myös esimerkiksi **Reactin, Next.js:n, Node.js:n, Android Studion, REST API -rajapintojen, MongoDB:n, WordPressin, Elementorin, Canvan, JupyterLabin, Pandasin, NumPyn ja Matplotlibin** sekä ohjelmistotestauksen parissa.
 
 ## 💡 Experience & projects | Kokemusta ja projekteja
 
@@ -76,11 +76,11 @@ Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä 
     <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false" alt="GitHub profile statistics" height="165">
   </a>
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Most used languages in public repositories" height="165">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20" alt="Most used languages in public repositories" height="165">
   </a>
 </p>
 
-*GitHub statistics show public repository data only and do not represent my full skills or private coursework. | GitHub-tilastot perustuvat julkisiin repositorioihin eivätkä kuvaa kaikkea osaamistani tai yksityisiä opintotöitäni.*
+*The language chart is set to display up to 20 detected languages. GitHub detects languages from code in repositories; frameworks, tools, coursework in private repositories and technologies used only in small or untracked examples may not appear. The chart is therefore a repository activity snapshot, not a complete skills list. | Kielet-kaavio näyttää nyt enintään 20 tunnistettua kieltä. GitHub tunnistaa kielet repositorioiden koodista, joten frameworkit, työkalut, yksityisten repositorioiden opintotyöt ja vain pienissä tai seuraamattomissa esimerkeissä käytetyt teknologiat eivät välttämättä näy. Kaavio kuvaa siis repositorioiden sisältöä, ei koko osaamislistaa.*
 
 ---
 
