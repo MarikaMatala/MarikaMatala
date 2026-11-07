@@ -1,4 +1,4 @@
-<!-- Profile README for MarikaMatala | Updated: 2026-11-06 20:27 Europe/Helsinki -->
+<!-- Profile README for MarikaMatala | Updated: 2026-11-07 23:32 Europe/Helsinki -->
 
 <h1 align="center">Hi, I'm Marika M. 👋</h1>
 <h3 align="center">ICT Engineer · Frontend & Web Development · UI/UX · Visual Design & Digital Media</h3>
@@ -69,18 +69,22 @@ Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä 
 
 ---
 
-## 📊 GitHub | GitHub-tilastot
+## 📊 GitHub activity & language statistics | GitHub-aktiivisuus ja ohjelmointikielet
 
 <p align="center">
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false" alt="GitHub profile statistics" height="165">
+    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false" alt="GitHub account statistics based on public activity" height="165">
   </a>
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20" alt="Most used languages in public repositories" height="165">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20" alt="Top detected programming languages in public repositories, up to 20 languages" height="165">
   </a>
 </p>
 
-*The language chart is set to display up to 20 detected languages. GitHub detects languages from code in repositories; frameworks, tools, coursework in private repositories and technologies used only in small or untracked examples may not appear. The chart is therefore a repository activity snapshot, not a complete skills list. | Kielet-kaavio näyttää nyt enintään 20 tunnistettua kieltä. GitHub tunnistaa kielet repositorioiden koodista, joten frameworkit, työkalut, yksityisten repositorioiden opintotyöt ja vain pienissä tai seuraamattomissa esimerkeissä käytetyt teknologiat eivät välttämättä näy. Kaavio kuvaa siis repositorioiden sisältöä, ei koko osaamislistaa.*
+**How to read these statistics | Tilastojen tulkinta**
+
+The language chart can display **up to 20 detected languages**; it may show fewer when fewer languages are detected. It reflects the code GitHub identifies in the repositories included by the statistics service, not every technology I've studied or used. Frameworks and tools (for example React, Next.js, Node.js, Android Studio and WordPress) are not separate programming languages in this chart. Small examples, documentation, coursework in private repositories and code in repositories that are not included may not appear. The general statistics and language chart are therefore **a snapshot of public GitHub repository content and activity, not a complete skills assessment or CV**.
+
+Kielikaavio voi näyttää **enintään 20 tunnistettua ohjelmointikieltä**. Siinä voi näkyä myös vähemmän kieliä, jos niitä tunnistetaan vähemmän. Kaavio perustuu tilastopalvelun huomioimien repositorioiden koodiin, eikä se kuvaa kaikkia opiskelemiani tai käyttämiäni teknologioita. Frameworkit ja työkalut (esimerkiksi React, Next.js, Node.js, Android Studio ja WordPress) eivät näy kaaviossa erillisinä ohjelmointikielinä. Pienet esimerkit, dokumentaatio, yksityisten repositorioiden opintotyöt ja tilastopalvelun ulkopuolelle jäävä koodi eivät välttämättä näy. Yleiset tilastot ja kielikaavio ovat siis **julkisten GitHub-repositorioiden sisällön ja aktiivisuuden tilannekuva, eivät kattava arvio osaamisesta tai ansioluettelo**.
 
 ---
 
