@@ -1,93 +1,76 @@
-<!-- Profile README for MarikaMatala | Updated: 2026-11-07 23:32 Europe/Helsinki -->
+<!-- Profile README for MarikaMatala -->
 
 <h1 align="center">Hi, I'm Marika M. 👋</h1>
-<h3 align="center">ICT Engineer · Frontend & Web Development · UI/UX · Visual Design & Digital Media</h3>
+<h3 align="center">ICT Engineer · Web & Application Development · UI/UX · Digital Media & Communications</h3>
 
 <p align="center">
-  <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8E3F27?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF9ED" alt="Portfolio"></a>
+  <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8E3F27?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF9ED" alt="Portfolio website"></a>
   <a href="https://www.linkedin.com/in/marika-matalamaki"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A7770?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:marika.matalamaki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8E3F27?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
   <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
-  <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
+  <a href="https://buymeacoffee.com/marikamatamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
 </p>
 
-## 🇬🇧 About me | 🇫🇮 Esittelyni
+## 🇬🇧 About me | 🇫🇮 Esittely
 
-I'm an **ICT Engineer (Bachelor of Engineering in Information and Communications Technology)** from Finland. I graduated from JAMK in May 2026, completing 265 ECTS credits. My interests and skills include **web development, frontend, UI/UX, visual design and digital media**. I'm looking for **entry-level and junior positions**, as well as **paid company trainee, graduate and other early-career programmes or internships open to graduates**, including people who graduated within the past 12 months. I'm **not looking for internships required as part of a Finnish university of applied sciences degree**, as I have already graduated, or for **unpaid work or internships**. My first preference is on-site and hybrid work in **Helsinki, Espoo and Vantaa, Finland**, where there are more companies in my field and I have friends and acquaintances. I also consider suitable opportunities in **Jyväskylä** and am willing to relocate to the Helsinki metropolitan area for work. I'm also open to remote roles, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
+I'm an **ICT Engineer (Bachelor of Engineering)** from Finland, graduated from JAMK in May 2026. My interests combine **web and application development, frontend, UI/UX, visual design, digital media and communications**. I enjoy learning by building practical projects that bring technology and creativity together.
 
-Olen **valmistunut tieto- ja viestintätekniikan insinööriksi (insinööri AMK)** JAMKista toukokuussa 2026. Tutkintoon kertyi 265 opintopistettä. Osaamiseeni ja kiinnostuksen kohteisiini kuuluvat **web-kehitys, frontend, UI/UX, visuaalinen suunnittelu ja digitaalinen media**. Etsin **entry-tason ja junior-tason työpaikkoja** sekä **palkallisia yritysten trainee-, graduate- ja muita uransa alkuvaiheen ohjelmia tai harjoittelupaikkoja**, jotka soveltuvat myös jo valmistuneille tai viimeisen 12 kuukauden aikana valmistuneille. **En etsi AMK-tutkintoon kuuluvia harjoittelupaikkoja**, sillä olen jo valmistunut, enkä **palkattomia töitä tai harjoitteluja**. Ensisijaisesti kiinnostavat **paikan päällä tehtävät ja hybridityöt Helsingissä, Espoossa ja Vantaalla**, sillä pääkaupunkiseudulla on enemmän oman alani yrityksiä ja minulla on siellä tuttuja ja ystäviä. Haen myös **Jyväskylästä**, jos sopiva työmahdollisuus löytyy, ja olen valmis muuttamaan pääkaupunkiseudulle työn perässä. Olen kiinnostunut myös **etätyöstä, kansainvälisistä tehtävistä sekä matkustamista edellyttävästä työstä Suomessa ja ulkomailla**. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
+Olen Suomessa asuva **tieto- ja viestintätekniikan insinööri (AMK)** ja valmistuin JAMKista toukokuussa 2026. Kiinnostukseni yhdistävät **web- ja sovelluskehityksen, frontendin, UI/UX-suunnittelun, visuaalisen suunnittelun, digitaalisen median ja viestinnän**. Opin mielelläni tekemällä käytännön projekteja, joissa yhdistyvät teknologia ja luovuus.
+
+**Currently looking for | Etsin tällä hetkellä:** entry-level and junior roles, as well as paid graduate, trainee and other early-career opportunities open to graduates. I am not looking for unpaid work or degree-required internships. | entry- ja junior-tason työtehtäviä sekä palkallisia graduate-, trainee- ja muita uran alkuvaiheen mahdollisuuksia, jotka soveltuvat jo valmistuneille. En etsi palkattomia töitä tai tutkintoon kuuluvia harjoitteluja.
+
+**Location | Sijainti:** Helsinki metropolitan area preferred for on-site or hybrid work; also open to suitable opportunities in Jyväskylä, remote work and international opportunities. Available for on-site work from **January 2027**. | Ensisijaisesti pääkaupunkiseutu lähi- ja hybridityössä; myös sopivat mahdollisuudet Jyväskylässä, etätyö ja kansainväliset tehtävät kiinnostavat. Voin aloittaa lähityössä **tammikuussa 2027**.
 
 ---
 
-## 🛠️ Tech stack & tools | Teknologiat ja työkalut
+## 🛠️ Technologies & tools | Teknologiat ja työkalut
 
-### Web & application development | Web- ja sovelluskehitys
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,kotlin,php,java,mysql,bash,powershell,json&theme=light&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Python, C sharp, Kotlin, PHP, Java, MySQL, Bash, PowerShell and JSON">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,kotlin,php,java,mysql,bash,powershell&theme=light&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, C sharp, Kotlin, PHP, Java, MySQL, Bash and PowerShell">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,ps,ai,pr,blender,wordpress,git,github,gitlab,vscode&theme=light&perline=7" alt="React, Next.js, Node.js, Figma, Photoshop, Illustrator, Premiere Pro, Blender, WordPress, Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
-### Design & digital media | Visuaalinen suunnittelu ja digitaalinen media
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,blender,wordpress&theme=light&perline=8" alt="Figma, Photoshop, Illustrator, Premiere Pro, Blender and WordPress">
+Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android Studio, Docker, Kubernetes, software testing, Canva, JupyterLab, Pandas, NumPy and Matplotlib.**
+
+---
+
+## 💡 Selected projects | Valikoituja projekteja
+
+- **[Portfolio website](https://marikamatala.github.io/)** — selected work, projects and background | työnäytteet, projektit ja taustatiedot.
+- **[WIMMA Capstone](https://wimma-capstone.jamk.fi/)** — brand identity, visual design, accessibility and UI/UX | brändi-identiteetti, visuaalinen suunnittelu, saavutettavuus ja UI/UX.
+- **[The Cultured Vault](https://github.com/MarikaMatala/The-Cultured-Vault)** — a cross-media catalogue project | eri medioita yhdistävä kulttuurikatalogiprojekti.
+- **[Access & Subtitle QA Toolkit](https://github.com/MarikaMatala/access-subtitle-qa-toolkit)** — accessibility and subtitle quality tools, with a [browser demo](https://marikamatala.github.io/access-subtitle-qa-toolkit/) | saavutettavuuden ja tekstitysten laadun tarkistustyökalu, jossa on selaindemo.
+- **[Remote Job Fit](https://github.com/MarikaMatala/remote-job-fit)** — an experimental job-search and skills-matching project | kokeellinen työnhaun ja osaamisen vertailun projekti.
+- **[Personal Style & Colour Guide](https://github.com/MarikaMatala/personal-style-colour-guide)** — a bilingual colour analysis and style-guide concept | kaksikielinen värianalyysi- ja tyylivinkkisivuston konsepti.
+
+---
+
+## 📊 GitHub activity | GitHub-aktiivisuus
+
+<p align="center">
+  <a href="https://github.com/MarikaMatala">
+    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false&show=contributions" alt="GitHub statistics for public activity" height="165">
+  </a>
+  <a href="https://github.com/MarikaMatala">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Most used languages detected in public repositories" height="165">
+  </a>
 </p>
 
-### Development tools | Kehitystyökalut
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light&perline=8" alt="Git, GitHub, GitLab and Visual Studio Code">
-</p>
+*These cards are generated by GitHub Stats Extended and reflect detected GitHub activity and public repository code. The language chart is not a complete list of my skills or technologies.*  
+*Tilastokortit luodaan GitHub Stats Extended -palvelulla. Ne kuvaavat GitHub-aktiivisuutta ja julkisista repositorioista tunnistettua koodia. Kielikaavio ei ole täydellinen luettelo osaamisestani tai käyttämistäni teknologioista.*
 
-Frameworks, platforms and additional technologies I've worked with include **React, Next.js, Node.js, Android Studio, REST APIs, MongoDB, WordPress, Elementor, Canva, JupyterLab, Pandas, NumPy and Matplotlib**, as well as software testing.
+---
 
-Olen työskennellyt myös esimerkiksi **Reactin, Next.js:n, Node.js:n, Android Studion, REST API -rajapintojen, MongoDB:n, WordPressin, Elementorin, Canvan, JupyterLabin, Pandasin, NumPyn ja Matplotlibin** sekä ohjelmistotestauksen parissa.
+## 🧡 Support & contact | Tuki ja yhteydenotto
 
-## 💡 Experience & projects | Kokemusta ja projekteja
-
-- **WIMMA Capstone:** brand identity, visual design, accessibility and UI/UX | brändiuudistus, visuaalinen suunnittelu, saavutettavuus ja UI/UX. [Project website | Projektisivusto](https://wimma-capstone.jamk.fi/)
-- **The Cultured Vault:** a bilingual cultural-catalogue concept with a 500-entry installable PWA demo, local-only visitor suggestions and clearly separated owner-rating and IMDb-reference fields | kulttuurikatalogi ja asennettava 500 teoksen PWA-demo. [Try the demo | Kokeile demoa](https://marikamatala.github.io/The-Cultured-Vault-demo/) · [Project repository | Projektirepositorio](https://github.com/MarikaMatala/The-Cultured-Vault)
-- **WIMMA Lab:** frontend development and teamwork | frontend-kehitys ja tiimityöskentely.
-- **JIO:** communications, WordPress and social media | viestintä, WordPress ja sosiaalinen media.
-- **Media & journalism:** photography, video, audio and editorial work | valokuvaus, videotuotanto, äänityö ja journalistinen työ.
-
-More about my work | Lisää töistäni: [Portfolio](https://marikamatala.github.io/).
-
-## 🧡 Career support & collaboration | Uran tukeminen ja yhteistyö
-
-I welcome support and collaboration related to my work in IT and creative fields. This can include project sponsorship, financial contributions, software, tools or equipment. I'm also open to project work and agreed marketing or social media collaborations.
-
-Otan mielelläni vastaan tukea ja yhteistyöehdotuksia IT:n ja luovien alojen parissa. Tuki voi olla esimerkiksi projektisponsorointia, rahallista tukea, ohjelmistoja, työvälineitä tai laitteita. Olen kiinnostunut myös projektitöistä sekä erikseen sovittavista markkinointi- ja somenäkyvyyteen liittyvistä yhteistöistä.
-
-Yhteydenotot | Contact: [marika.matalamaki@gmail.com](mailto:marika.matalamaki@gmail.com)
-
-You can also support my open-source interests and ongoing development through [GitHub Sponsors](https://github.com/sponsors/MarikaMatala). You can also support my work through [Buy Me a Coffee](https://buymeacoffee.com/marikamatala). Contributions help me keep learning, develop my skills and work on personal, creative and open-source projects. They can go towards practical resources such as software, development tools, learning materials and equipment for my work.
-
-Voit tukea myös avoimen lähdekoodin projektejani ja osaamiseni kehittämistä [GitHub Sponsorsin kautta](https://github.com/sponsors/MarikaMatala). Voit tukea työtäni myös [Buy Me a Coffeen kautta](https://buymeacoffee.com/marikamatala). Tukimaksut auttavat minua kehittämään osaamistani ja työskentelemään omien luovien projektieni sekä avoimen lähdekoodin projektien parissa. Tuki voidaan käyttää esimerkiksi työssä tarvittaviin ohjelmistoihin, kehitystyökaluihin, oppimateriaaleihin ja laitteisiin.
+I welcome relevant project collaborations, feedback and support for my learning and open-source work.  
+Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen sekä avoimen lähdekoodin työhön.
 
 <p align="center">
   <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work on GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
 </p>
 
----
-
-## 📊 GitHub activity & language statistics | GitHub-aktiivisuus ja ohjelmointikielet
-
-<p align="center">
-  <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false&show=contributions&v=20261108" alt="GitHub account statistics based on public activity" height="165">
-  </a>
-  <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5&v=20261108" alt="Top detected programming languages in public repositories, up to 20 languages" height="165">
-  </a>
-</p>
-
-**How to read these statistics | Tilastojen tulkinta**
-
-The language chart can display **up to 20 detected languages**; it may show fewer when fewer languages are detected. It reflects the code GitHub identifies in the repositories included by the statistics service, not every technology I've studied or used. Frameworks and tools (for example React, Next.js, Node.js, Android Studio and WordPress) are not separate programming languages in this chart. The current public chart does not include private repositories by default; private-language coverage requires authorizing GitHub Stats Extended for private access. Small examples, documentation and code in repositories that are not included may not appear. The general statistics and language chart are therefore **a snapshot of public GitHub repository content and activity, not a complete skills assessment or CV**.
-
-Kielikaavio voi näyttää **enintään 20 tunnistettua ohjelmointikieltä**. Siinä voi näkyä myös vähemmän kieliä, jos niitä tunnistetaan vähemmän. Kaavio perustuu tilastopalvelun huomioimien repositorioiden koodiin, eikä se kuvaa kaikkia opiskelemiani tai käyttämiäni teknologioita. Frameworkit ja työkalut (esimerkiksi React, Next.js, Node.js, Android Studio ja WordPress) eivät näy kaaviossa erillisinä ohjelmointikielinä. Nykyinen julkinen kaavio ei oletusarvoisesti sisällä yksityisiä repositorioita; niiden kielitietojen näyttäminen edellyttää GitHub Stats Extended -palvelulle annettavaa yksityisten tietojen käyttöoikeutta. Pienet esimerkit, dokumentaatio ja tilastopalvelun ulkopuolelle jäävä koodi eivät välttämättä näy. Yleiset tilastot ja kielikaavio ovat siis **julkisten GitHub-repositorioiden sisällön ja aktiivisuuden tilannekuva, eivät kattava arvio osaamisesta tai ansioluettelo**.
-
----
-
-<p align="center">
-  <i>Technical thinking, visual perspective and a curiosity to keep learning.</i>
-</p>
+<p align="center"><i>Technology, creativity and continuous learning.</i></p>
