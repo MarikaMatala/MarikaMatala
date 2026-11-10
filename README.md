@@ -50,6 +50,10 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
 ## 📊 GitHub activity | GitHub-aktiivisuus
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarikaMatala&label=Profile%20views&color=8E3F27&style=flat-square" alt="GitHub profile views counter">
+</p>
+
+<p align="center">
   <a href="https://github.com/MarikaMatala">
     <img src="https://github-stats-extended.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false&show=contributions" alt="GitHub statistics for public activity" height="165">
   </a>
