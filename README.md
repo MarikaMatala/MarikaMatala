@@ -55,16 +55,16 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
 </p>
 
 <p align="center">
-  <a href="https://gitshine.com/stats/MarikaMatala">
-    <img src="https://gitshine.com/card/MarikaMatala?theme=light" alt="GitHub contribution activity, streaks and repository statistics" height="190">
+  <a href="https://github.com/MarikaMatala">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarikaMatala&bg_color=ffffff&color=6a6565&line=8e3f27&point=e48b6a&area=true&area_color=f6edd8&hide_border=true&radius=6&height=260&custom_title=GitHub%20contributions" alt="Static GitHub contribution activity graph" height="260">
   </a>
   <a href="https://github.com/MarikaMatala">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Most used languages detected in public repositories" height="165">
   </a>
 </p>
 
-*The activity card refreshes automatically and summarizes recent contributions, streaks and repository statistics. The language chart is based on detected code in public repositories; it is not a complete list of my skills or technologies.*  
-*Aktiviteettikortti päivittyy automaattisesti ja kokoaa yhteen viimeaikaisia kontribuutioita, aktiivisuusputkia ja repositoriotilastoja. Kielikaavio perustuu julkisista repositorioista tunnistettuun koodiin, eikä se ole täydellinen luettelo osaamisestani tai käyttämistäni teknologioista.*
+*The contribution graph is a static SVG chart that refreshes when viewed; it has no moving animation. The language chart is based on detected code in public repositories; it is not a complete list of my skills or technologies.*  
+*Kontribuutiokaavio on staattinen SVG-kaavio, joka päivittyy sitä katsottaessa, mutta siinä ei ole liikkuvaa animaatiota. Kielikaavio perustuu julkisista repositorioista tunnistettuun koodiin, eikä se ole täydellinen luettelo osaamisestani tai käyttämistäni teknologioista.*
 
 ---
 
