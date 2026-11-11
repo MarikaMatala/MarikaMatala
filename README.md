@@ -27,10 +27,10 @@ Olen Suomessa asuva **tieto- ja viestintätekniikan insinööri (AMK)** ja valmi
 ## 🛠️ Technologies & tools | Teknologiat ja työkalut
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,kotlin,php,java,mysql,bash,powershell&theme=light&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, C sharp, Kotlin, PHP, Java, MySQL, Bash and PowerShell">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,kotlin,php,java,mysql,bash,powershell&theme=dark&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, C sharp, Kotlin, PHP, Java, MySQL, Bash and PowerShell">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,ps,ai,pr,blender,wordpress,git,github,gitlab,vscode&theme=light&perline=7" alt="React, Next.js, Node.js, Figma, Photoshop, Illustrator, Premiere Pro, Blender, WordPress, Git, GitHub, GitLab and Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,figma,ps,ai,pr,blender,wordpress,git,github,gitlab,vscode&theme=dark&perline=7" alt="React, Next.js, Node.js, Figma, Photoshop, Illustrator, Premiere Pro, Blender, WordPress, Git, GitHub, GitLab and Visual Studio Code">
 </p>
 
 Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android Studio, Docker, Kubernetes, software testing, Canva, JupyterLab, Pandas, NumPy and Matplotlib.**
@@ -51,7 +51,7 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
 ## 📊 GitHub activity | GitHub-aktiivisuus
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarikaMatala&label=Profile%20views&color=8E3F27&style=flat-square" alt="GitHub profile views counter">
+  <img src="https://komarev.com/ghpvc/?username=MarikaMatala&label=Profile%20views&color=CC5500&style=flat-square" alt="GitHub profile views counter">
 </p>
 
 <p align="center">
@@ -59,11 +59,9 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
     <img src="https://ghchart.rshah.org/CC5500/MarikaMatala" alt="GitHub contribution activity heatmap" width="420">
   </a>
   <a href="https://github.com/MarikaMatala">
-    <img src="https://ghstats.dev/api/langs?username=MarikaMatala&theme=light&layout=compact&max_langs=12&hide_border=true&bg=FFFFFF&text=6A6565&title_color=CC5500" alt="Most used programming languages in public repositories" width="420">
+    <img src="https://ghstats.dev/api/langs?username=MarikaMatala&theme=dark&layout=compact&max_langs=12&hide_border=true&bg=0D1117&text=E6EDF3&title_color=CC5500" alt="Most used programming languages in public repositories" width="420">
   </a>
 </p>
-
-
 
 ---
 
