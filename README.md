@@ -56,7 +56,7 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
 
 <p align="center">
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarikaMatala&bg_color=ffffff&color=6a6565&line=8e3f27&point=e48b6a&area=true&area_color=f6edd8&hide_border=true&radius=6&height=260&custom_title=GitHub%20contributions" alt="Static GitHub contribution activity graph" height="260">
+    <img src="https://ghchart.rshah.org/8e3f27/MarikaMatala" alt="GitHub contribution activity heatmap" height="170">
   </a>
   <a href="https://github.com/MarikaMatala">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Most used languages detected in public repositories" height="165">
