@@ -59,7 +59,7 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
     <img src="https://ghchart.rshah.org/8e3f27/MarikaMatala" alt="GitHub contribution activity heatmap" height="170">
   </a>
   <a href="https://github.com/MarikaMatala">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarikaMatala&layout=compact&hide_border=true&theme=default&langs_count=20&size_weight=0.5&count_weight=0.5" alt="Most used languages detected in public repositories" height="165">
+    <img src="https://ghstats.dev/api/langs?username=MarikaMatala&theme=light&layout=bar&max_langs=8&hide_border=true&bg=FFFFFF&text=6A6565&title_color=8E3F27" alt="Most used programming languages in public repositories" height="220">
   </a>
 </p>
 
