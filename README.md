@@ -134,10 +134,6 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
 <hr>
 
 <p align="center">
-  <strong>✦ A phrase that reflects what I do ✦<br>✦ Lause, joka kuvaa tekemistäni ✦</strong>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/✦%20Technology,%20creativity%20and%20continuous%20learning.%20✦-CC5500?style=for-the-badge&labelColor=242424" alt="Technology, creativity and continuous learning">
 </p>
 
