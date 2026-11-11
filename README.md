@@ -134,7 +134,7 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
 <hr>
 
 <p align="center">
-  <strong>✦ A motto that describes me | Minua kuvaava motto ✦</strong>
+  <strong>✦ A phrase that reflects what I do ✦<br>✦ Lause, joka kuvaa tekemistäni ✦</strong>
 </p>
 
 <p align="center">
