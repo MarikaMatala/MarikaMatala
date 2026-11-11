@@ -77,9 +77,7 @@ The badges below show each technology or tool with its logo and name. | Alla ole
   <img src="https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab">
 </p>
 
-### **Data, APIs & libraries |**
-
-### **Data, rajapinnat ja kirjastot**
+### **Data, APIs & libraries |**<br>**Data, rajapinnat ja kirjastot**
 
 <p>
   <img src="https://img.shields.io/badge/-REST%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API">
