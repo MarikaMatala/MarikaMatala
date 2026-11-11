@@ -131,7 +131,11 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
 </p>
 
-<p align="center"><i>Technology, creativity and continuous learning.</i></p>
+<p align="center">
+  <strong>✦ Where technology meets creativity, ideas come to life. ✦</strong>
+  <br>
+  <em>Siellä missä teknologia kohtaa luovuuden, ideat heräävät eloon.</em>
+</p>
 
 
 ---
