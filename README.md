@@ -132,9 +132,7 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
 </p>
 
 <p align="center">
-  <strong>✦ Where technology meets creativity, ideas come to life. ✦</strong>
-  <br>
-  <em>Siellä missä teknologia kohtaa luovuuden, ideat heräävät eloon.</em>
+  <img src="https://img.shields.io/badge/✦%20Technology,%20creativity%20and%20continuous%20learning.%20✦-CC5500?style=for-the-badge&labelColor=242424" alt="Technology, creativity and continuous learning">
 </p>
 
 
