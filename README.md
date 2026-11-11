@@ -29,7 +29,7 @@ Teknologiat ja työkalut
 
 The badges below show each technology or tool with its logo and name. | Alla olevissa tunnuksissa näkyvät sekä teknologian tai työkalun logo että nimi.
 
-### Programming languages & web technologies | Ohjelmointikielet ja web-teknologiat
+### Programming languages & web basics | Ohjelmointikielet ja webin perusteet
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
