@@ -63,8 +63,7 @@ Additional experience | Lisäksi kokemusta: **REST APIs, JSON, MongoDB, Android 
   </a>
 </p>
 
-*The contribution graph is a static SVG chart that refreshes when viewed; it has no moving animation. The language chart is based on detected code in public repositories; it is not a complete list of my skills or technologies.*  
-*Kontribuutiokaavio on staattinen SVG-kaavio, joka päivittyy sitä katsottaessa, mutta siinä ei ole liikkuvaa animaatiota. Kielikaavio perustuu julkisista repositorioista tunnistettuun koodiin, eikä se ole täydellinen luettelo osaamisestani tai käyttämistäni teknologioista.*
+
 
 ---
 
