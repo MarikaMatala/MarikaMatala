@@ -76,3 +76,13 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
 </p>
 
 <p align="center"><i>Technology, creativity and continuous learning.</i></p>
+
+
+---
+
+## Privacy, copyright and reuse | Tietosuoja, tekijänoikeudet ja käyttö
+
+- [Privacy and data handling / Tietosuoja ja tietojen käsittely](PRIVACY.md)
+- [Copyright and permitted use / Tekijänoikeudet ja materiaalin käyttö](COPYRIGHT.md)
+
+These documents describe this repository and its current project boundaries. They are informational notices, not general contract terms. / Nämä dokumentit kuvaavat tämän repositorion ja projektin nykyisiä toimintarajoja. Ne ovat informatiivisia selosteita, eivät yleisiä sopimusehtoja.
