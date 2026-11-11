@@ -24,7 +24,8 @@ Olen Suomessa asuva **tieto- ja viestintätekniikan insinööri (AMK)** ja valmi
 
 ---
 
-## 🛠️ Technologies & tools | Teknologiat ja työkalut
+## 🛠️ Technologies & tools | 
+Teknologiat ja työkalut
 
 The badges below show each technology or tool with its logo and name. | Alla olevissa tunnuksissa näkyvät sekä teknologian tai työkalun logo että nimi.
 
@@ -78,7 +79,8 @@ The badges below show each technology or tool with its logo and name. | Alla ole
   <img src="https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab">
 </p>
 
-### Data, APIs & libraries | Data, rajapinnat ja kirjastot
+### Data, APIs & libraries | 
+Data, rajapinnat ja kirjastot
 
 <p>
   <img src="https://img.shields.io/badge/-REST%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API">
@@ -89,7 +91,8 @@ The badges below show each technology or tool with its logo and name. | Alla ole
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
 </p>
 
-**Also familiar with | Lisäksi kokemusta:** software testing | ohjelmistotestaus.
+**Also familiar with | Lisäksi kokemusta:**
+software testing | ohjelmistotestaus.
 
 ---
 
@@ -121,7 +124,8 @@ The badges below show each technology or tool with its logo and name. | Alla ole
 
 ---
 
-## 🧡 Support & contact | Tuki ja yhteydenotto
+## 🧡 Support & contact | 
+Tuki ja yhteydenotto
 
 I welcome relevant project collaborations, feedback and support for my learning and open-source work.  
 Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen sekä avoimen lähdekoodin työhön.
