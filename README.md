@@ -131,6 +131,12 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
 </p>
 
+<hr>
+
+<p align="center">
+  <strong>✦ A motto that describes me | Minua kuvaava motto ✦</strong>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/✦%20Technology,%20creativity%20and%20continuous%20learning.%20✦-CC5500?style=for-the-badge&labelColor=242424" alt="Technology, creativity and continuous learning">
 </p>
