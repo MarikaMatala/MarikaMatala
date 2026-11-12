@@ -11,7 +11,7 @@ Internal checklist; not displayed on the portfolio website.
 ## Links and presentation
 - [ ] Check all portfolio, LinkedIn, email, support and repository links.
 - [ ] Check badge images, alt text and README rendering on mobile and desktop.
-- [ ] Consider a concise featured-project section linking to selected public repositories.
+- [x] Add a concise featured-project section linking to selected public repositories.
 
 ## Maintenance
 - [ ] Keep private details and credentials out of tracked files and commit history.
