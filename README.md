@@ -1,7 +1,7 @@
 <!-- Profile README for MarikaMatala -->
 
 <h1 align="center">Hi, I'm Marika M. 👋</h1>
-<h3 align="center">· ICT Engineer ·<br> · Web & Application Development · UI/UX ·<br>· Digital Media & Communications ·</h3>
+<h3 align="center">· ICT Engineer ·<br> · Web & Application Development · · UI/UX ·<br>· Digital Media & Communications ·</h3>
 
 <p align="center">
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8E3F27?style=for-the-badge&logo=firefoxbrowser&logoColor=FFF9ED" alt="Portfolio website"></a>
