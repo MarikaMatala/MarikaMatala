@@ -96,6 +96,7 @@ software testing | ohjelmistotestaus.
 ## 💡 Selected projects | Valikoituja projekteja
 
 - **[Portfolio website](https://marikamatala.github.io/)** — selected work, projects and background | työnäytteet, projektit ja taustatiedot.
+- **[IT Support & Service Desk Learning Lab](https://github.com/MarikaMatala/it-support-service-desk-lab)** — an independent learning project documenting simulated service desk exercises, troubleshooting practice and technical learning | itsenäinen oppimisprojekti, jossa dokumentoin simuloituja service desk -harjoituksia, vianmäärityksen harjoittelua ja teknistä oppimista.
 - **[WIMMA Capstone](https://wimma-capstone.jamk.fi/)** — brand identity, visual design, accessibility and UI/UX | brändi-identiteetti, visuaalinen suunnittelu, saavutettavuus ja UI/UX.
 - **[The Cultured Vault](https://github.com/MarikaMatala/The-Cultured-Vault)** — a cross-media catalogue project | eri medioita yhdistävä kulttuurikatalogiprojekti.
 - **[Access & Subtitle QA Toolkit](https://github.com/MarikaMatala/access-subtitle-qa-toolkit)** — accessibility and subtitle quality tools, with a [browser demo](https://marikamatala.github.io/access-subtitle-qa-toolkit/) | saavutettavuuden ja tekstitysten laadun tarkistustyökalu, jossa on selaindemo.
