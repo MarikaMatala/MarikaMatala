@@ -93,6 +93,20 @@ software testing | ohjelmistotestaus.
 
 ---
 
+---
+
+## 🎨 Creative & technical skills | Luova ja tekninen osaaminen
+
+**ICT & development | ICT ja kehitys:** frontend and web development, application development, responsive design, UI/UX, accessibility, APIs and software testing.
+
+**Design & visual work | Suunnittelu ja visuaalinen työ:** interface design, graphic design, branding, Figma, Adobe Photoshop and Illustrator.
+
+**Media & production | Media ja tuotanto:** photography, video production and editing, audiovisual content, digital media, animation interests and Blender.
+
+**Communication & content | Viestintä ja sisältö:** social media, content creation, journalism, marketing communications, visual storytelling and audience-oriented communication.
+
+---
+
 ## 💡 Selected projects | Valikoituja projekteja
 
 - **[Portfolio website](https://marikamatala.github.io/)** — selected work, projects and background | työnäytteet, projektit ja taustatiedot.
@@ -108,15 +122,21 @@ software testing | ohjelmistotestaus.
 ## 📊 GitHub activity | GitHub-aktiivisuus
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarikaMatala&label=Profile%20views&color=CC5500&style=flat-square" alt="GitHub profile views counter">
+  <a href="https://github.com/MarikaMatala">
+    <img src="https://ghchart.rshah.org/CC5500/MarikaMatala" alt="GitHub contribution activity heatmap" width="420">
+  </a>
+  <a href="https://ghstats.dev/api/langs?username=MarikaMatala&theme=dark&layout=bar&max_langs=12&hide_border=true&bg=0D1117&text=E6EDF3&title_color=CC5500">
+    <img src="https://ghstats.dev/api/langs?username=MarikaMatala&theme=dark&layout=bar&max_langs=12&hide_border=true&bg=0D1117&text=E6EDF3&title_color=CC5500" alt="Most used programming languages with percentages in public repositories" width="420">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarikaMatala&bg_color=0D1117&color=E6EDF3&line=CC5500&point=79B8B8&area=true&hide_border=true&custom_title=GitHub%20Activity%20%7C%20Last%2031%20Days" alt="GitHub activity graph showing contributions over the last 31 days" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/MarikaMatala">
-    <img src="https://ghchart.rshah.org/CC5500/MarikaMatala" alt="GitHub contribution activity heatmap" width="420">
-  </a>
-  <a href="https://github.com/MarikaMatala">
-    <img src="https://ghstats.dev/api/langs?username=MarikaMatala&theme=dark&layout=bar&max_langs=12&hide_border=true&bg=0D1117&text=E6EDF3&title_color=CC5500" alt="Most used programming languages with percentages in public repositories" width="420">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarikaMatala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC5500&icon_color=79B8B8&text_color=E6EDF3&include_all_commits=true" alt="GitHub statistics including commits, stars, and other activity" width="420">
   </a>
 </p>
 
