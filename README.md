@@ -9,6 +9,7 @@
   <a href="mailto:marika.matalamaki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8E3F27?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
   <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
+  <a href="https://giftful.com/wishlists/wZxFPmt8rsgV1lRNzYhQ"><img src="https://img.shields.io/badge/Giftful-My%20Wishlist-BB8062?style=for-the-badge&logo=gift&logoColor=white" alt="My Giftful Wishlist"></a>
 </p>
 
 ## 🇬🇧 About me | 🇫🇮 Esittely
@@ -150,6 +151,7 @@ Otan mielelläni vastaan projektiyhteistyötä, palautetta ja tukea oppimiseen s
 <p align="center">
   <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work on GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work on Buy Me a Coffee"></a>
+  <a href="https://giftful.com/wishlists/wZxFPmt8rsgV1lRNzYhQ"><img src="https://img.shields.io/badge/Giftful-My%20Wishlist-BB8062?style=for-the-badge&logo=gift&logoColor=white" alt="My Giftful Wishlist"></a>
 </p>
 
 <hr>
